@@ -7,6 +7,7 @@
   
   body {
     font-family: var(--default-font-family);
+  
   }
   
   h1,
@@ -247,3 +248,4 @@ body
 .about-text {
   font-size: 40px;
 }
+
