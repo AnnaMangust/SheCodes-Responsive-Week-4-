@@ -249,3 +249,19 @@ body
   font-size: 40px;
 }
 
+.navbar-toggler-icon {
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: middle;
+  background-image: var(--bs-navbar-toggler-icon-bg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+
+.navbar-collapse {
+  flex-basis: 100%;
+  flex-grow: 1;
+  align-items: center;
+}
